@@ -1,6 +1,15 @@
-Dom�nmodellering - Workshop 1
-Peer review p� Christoffer Ekbloms modell
+Domänmodellering - Workshop 1
+Peer review på Christoffer Ekbloms modell
 ----------------------------------------------------------------
+Ett tydligt diagram som uppfyller kraven på korrekt UML-notation. 
+Beskrivande namn på klasserna och attribut som är relevanta. Associationer förstärker diagrammets tydlighet. 
+Multipliciteter är angivna på ett bra sätt.
+
+Det jag saknar är en klass för regler som gäller. Likaså en klass för faktura med medlemmens kostnader, medlemsskap och båtplatser. Det kanske inte hade varit nödvändigt att ha attributet datum i klassen kalender. Den känns självskriven.
+
+Riktigt bra och lättförståeligt.
+
+Jag tycker modellen klart uppfyller kriterierna för att bli godkänd.
 
 
 ----------------------------------------------------------------
