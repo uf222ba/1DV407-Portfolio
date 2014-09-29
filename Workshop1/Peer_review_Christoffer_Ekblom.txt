@@ -4,13 +4,19 @@ Peer review på Christoffer Ekbloms modell
 Ett tydligt diagram som uppfyller kraven på korrekt UML-notation. 
 Beskrivande namn på klasserna och attribut som är relevanta. Associationer förstärker diagrammets tydlighet. 
 Multipliciteter är angivna på ett bra sätt.
+Assocciationsklassen hantering tycker jag är bra och tydlig. Ett bra sätt att få med den viktiga funktionen.
 
 Det jag saknar är en klass för regler som gäller. Likaså en klass för faktura med medlemmens kostnader, medlemsskap och båtplatser. Det kanske inte hade varit nödvändigt att ha attributet datum i klassen kalender. Den känns självskriven.
 
 Riktigt bra och lättförståeligt.
 
-Jag tycker modellen klart uppfyller kriterierna för att bli godkänd.
+Sekreteraren tror jag skulle ha ganska lätt att läsa och förstå domänmodellen, men jag tror att denne skulle sakna information om fakturor och regler.
 
+Ur utvecklarperspektiv så tycker jag att modellen är lättförståelig, men precis som jag skrivit ovan, så tror jag att en utvecklare skulle sakna en del information för att bilden ska vara fullständig.
+
+Jag tycker trots en del brister att modellen uppfyller kriterierna för att bli godkänd. Bra jobbat!
+
+Länk till modellen: http://fyma.se/1DV407
 
 ----------------------------------------------------------------
 Skrivet av Ulrika Falk, uf222ba
