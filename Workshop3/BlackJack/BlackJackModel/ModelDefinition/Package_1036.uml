@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="daa8758f-076d-4922-94e7-335459060516"
+  name="BlackJack"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="b9f7c49a-8c5b-4b42-b3b9-63f3fbbfe996"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DBlackJack"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="ba8befca-d17f-455d-9c00-a3744cf3601e"
+        LastKnownName="controller"
+        LastKnownLocation="Package1_1036.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="19cf4582-f98f-445a-995e-e55bbfc30af6"
+        LastKnownName="model"
+        LastKnownLocation="Package2_1036.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="6c1f312e-8ad8-4a36-8df5-1d851eb734a1"
+        LastKnownName="view"
+        LastKnownLocation="Package3_1036.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>
