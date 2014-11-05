@@ -1,27 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
   dslVersion="1.0.0.0"
   Id="46f1f7dc-7d54-44d9-b2ed-cc4ff28044bd"
   name="BlackJackModel" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
-  <ownedCommentsInternal>
-    <comment
-      Id="27a42fe0-08cc-4b49-b02d-61daf42a26ac">
-      <body>Kommentarer
-Objekt som är tillkommna och/eller förändrade:
-
-Interface:
-IView
-ICardDealedListener
-
-Classes:
-Dealer.Stand()
-Game
-PlayGame
-Program
-SwedishView
-SimpleView</body>
-    </comment>
-  </ownedCommentsInternal>
   <profileInstances>
     <packageHasProfileInstances
       Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
@@ -36,9 +17,9 @@ SimpleView</body>
         name="StandardProfileL3" />
     </packageHasProfileInstances>
     <packageHasProfileInstances
-      Id="7835207f-469e-4a32-b717-e37d2e969073">
+      Id="8bdf94da-7154-4d1a-bf35-67b7d7b1f667">
       <profileInstance
-        Id="43829791-9a6e-4f11-aba0-37569fdd9c2f"
+        Id="84f42917-5237-44cc-b3f0-fac7a2a058dc"
         name="CSharpProfile" />
     </packageHasProfileInstances>
   </profileInstances>
@@ -63,21 +44,15 @@ SimpleView</body>
     </packageHasNamedElement>
     <packageHasNamedElement>
       <packageMoniker
-        Id="daa8758f-076d-4922-94e7-335459060516"
+        Id="0501e30f-4775-4758-be91-010dae73cfd3"
         LastKnownName="BlackJack"
-        LastKnownLocation="Package_1036.uml" />
+        LastKnownLocation="Package_1846.uml" />
     </packageHasNamedElement>
     <packageHasNamedElement>
       <packageMoniker
-        Id="7d7ac29e-5688-42c1-9905-fdedcd40a4e8"
-        LastKnownName="Package1"
-        LastKnownLocation="Package_1037.uml" />
-    </packageHasNamedElement>
-    <packageHasNamedElement>
-      <packageMoniker
-        Id="6846b6ee-e5b7-44c9-8b8e-49b8fd91d96d"
+        Id="4796e2b7-8dfa-404f-bc6b-207d78d8f3ab"
         LastKnownName="System"
-        LastKnownLocation="Package_1039.uml" />
+        LastKnownLocation="Package1_1912.uml" />
     </packageHasNamedElement>
   </packagedElements>
   <primitiveType

@@ -1,6 +1,5 @@
-C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_C#\BlackJack\bin\Debug\BlackJack.exe
-C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_C#\BlackJack\bin\Debug\BlackJack.pdb
-C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_C#\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
-C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_C#\BlackJack\obj\Debug\BlackJack.exe
-C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_C#\BlackJack\obj\Debug\BlackJack.pdb
-C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_C#\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_Ulrika_Falk\bin\Debug\BlackJack.exe
+C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_Ulrika_Falk\bin\Debug\BlackJack.pdb
+C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_Ulrika_Falk\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_Ulrika_Falk\obj\Debug\BlackJack.exe
+C:\Users\Falkebo\Documents\OOAD\Workshop3\BlackJack_Ulrika_Falk\obj\Debug\BlackJack.pdb

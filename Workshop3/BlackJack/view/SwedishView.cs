@@ -5,54 +5,17 @@ using System.Text;
 
 namespace BlackJack.view
 {
-    class SwedishView : IView 
+    class SwedishView : BaseView 
     {
-        public void DisplayWelcomeMessage()
+        public override void DisplayWelcomeMessage()
         {
             System.Console.Clear();
             System.Console.WriteLine("Hej Black Jack Världen");
             System.Console.WriteLine("----------------------");
-            System.Console.WriteLine("Skriv 'p' för att Spela, 'h' för nytt kort, 's' för att stanna 'q' för att avsluta\n");
+            System.Console.WriteLine("Skriv 'p' för att Spela,\n 'h' för nytt kort,\n 's' för att stanna 'q' för att avsluta\n");
         }
-        public int GetInput()
-        {
-            return System.Console.In.Read();
-        }
-
-        /// <summary>
-        /// Implementerad i ws 3
-        /// </summary>
-        /// <returns></returns>
-        public Event GetEvent()
-        { 
-        /*    while (true)
-            {
-                int input = GetInput();
-                if (input == 'p')
-                {
-                    return Event.Play;
-                }
-                else if (input == 'h')
-                {
-                    return Event.Hit;
-                }
-                else if (input == 's')
-                {
-                    return Event.Stand;
-                }
-                else if (input == 'q')
-                {
-                    return Event.Quit;
-                }
-                else
-                {
-                    return Event.Quit;
-                }
-            } */
-            return Event.Quit;
-        }
-
-        public void DisplayCard(model.Card a_card)
+        
+        public override void DisplayCard(model.Card a_card)
         {
             if (a_card.GetColor() == model.Card.Color.Hidden)
             {
@@ -67,15 +30,15 @@ namespace BlackJack.view
                 System.Console.WriteLine("{0} {1}", colors[(int)a_card.GetColor()], values[(int)a_card.GetValue()]);
             }
         }
-        public void DisplayPlayerHand(IEnumerable<model.Card> a_hand, int a_score)
+        public override void DisplayPlayerHand(IEnumerable<model.Card> a_hand, int a_score)
         {
             DisplayHand("Spelare", a_hand, a_score);
         }
-        public void DisplayDealerHand(IEnumerable<model.Card> a_hand, int a_score)
+        public override void DisplayDealerHand(IEnumerable<model.Card> a_hand, int a_score)
         {
             DisplayHand("Croupier", a_hand, a_score);
         }
-        public void DisplayGameOver(bool a_dealerIsWinner)
+        public override void DisplayGameOver(bool a_dealerIsWinner)
         {
             System.Console.Write("Slut: ");
             if (a_dealerIsWinner)

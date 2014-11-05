@@ -33,22 +33,22 @@
     <Content Include="ModelDefinition\Package1_0950.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package1_1036.uml">
+    <Content Include="ModelDefinition\Package1_1846.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package1_1039.uml">
+    <Content Include="ModelDefinition\Package1_1912.uml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="ModelDefinition\Package2_0950.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package2_1036.uml">
+    <Content Include="ModelDefinition\Package2_1846.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package2_1039.uml">
+    <Content Include="ModelDefinition\Package2_1912.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package3_1036.uml">
+    <Content Include="ModelDefinition\Package3_1912.uml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="ModelDefinition\Package_0949.uml">
@@ -57,24 +57,11 @@
     <Content Include="ModelDefinition\Package_0950.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package_1036.uml">
+    <Content Include="ModelDefinition\Package_1846.uml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="ModelDefinition\Package_1037.uml">
+    <Content Include="ModelDefinition\Package_1912.uml">
       <SubType>Content</SubType>
-    </Content>
-    <Content Include="ModelDefinition\Package_1039.uml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="ModelDefinition\Package_1041.uml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="UMLClassDiagramBlackJack.classdiagram">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="UMLClassDiagramBlackJack.classdiagram.layout">
-      <SubType>Content</SubType>
-      <DependentUpon>UMLClassDiagramBlackJack.classdiagram</DependentUpon>
     </Content>
     <Folder Include="ModelDefinition\" />
     <Content Include="BlackJack.classdiagram">
