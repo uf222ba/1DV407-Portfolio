@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="95246d52-ac95-416b-bf79-2e60815c7a3d"
+  name="TheBoatClub"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="84180743-4d86-474b-9b5f-82484100f971"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DTheBoatClub"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="7c10ae93-8aaa-45f2-ae63-2e1102b885f1"
+        LastKnownName="controller"
+        LastKnownLocation="Package1_0920.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="411541ef-e155-4c23-94a3-a7d01bb3e3df"
+        LastKnownName="view"
+        LastKnownLocation="Package2_0920.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="5419948b-1922-48d9-a94a-8576b1855a7f"
+        LastKnownName="model"
+        LastKnownLocation="Package3_0920.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

@@ -1,0 +1,8 @@
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\bin\Debug\TheBoatClub.exe.config
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\bin\Debug\TheBoatClub.exe
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\bin\Debug\TheBoatClub.pdb
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\obj\Debug\TheBoatClub.csprojResolveAssemblyReference.cache
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\obj\Debug\TheBoatClub.exe
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\obj\Debug\TheBoatClub.pdb
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\obj\Debug\TheBoatClub.Properties.Resources.resources
+c:\users\falkebo\documents\visual studio 2013\Projects\TheBoatClub\TheBoatClub\obj\Debug\TheBoatClub.csproj.GenerateResource.Cache

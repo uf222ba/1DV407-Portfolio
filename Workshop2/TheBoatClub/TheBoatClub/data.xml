@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<medlemmar>
+<medlem>
+  <medlemsnr>0</medlemsnr>
+  <personnr>781015</personnr>
+  <namn>Pelle Svensson</namn>
+  <batar>
+	<bat>
+		<typ>Motorbåt</typ>
+		<langd>8 m</langd>
+	</bat>
+  </batar>
+</medlem>
+<medlem>
+  <medlemsnr>1</medlemsnr>
+  <personnr>520410</personnr>
+  <namn>Anna Nilsson</namn>
+  <batar>
+	<bat>
+		<typ>Segelbåt</typ>
+		<langd>5 m</langd>
+	</bat>
+	<bat>
+		<typ>Eka</typ>
+		<langd>3 m</langd>
+	</bat>
+  </batar>
+</medlem>
+</medlemmar>

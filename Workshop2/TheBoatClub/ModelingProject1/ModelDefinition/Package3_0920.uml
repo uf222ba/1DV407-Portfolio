@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="5419948b-1922-48d9-a94a-8576b1855a7f"
+  name="model"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="b990d4e5-85eb-451f-bb94-efb9f60021a5"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DTheBoatClub.model"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="b570f4dc-4ee4-4c8f-bd26-b9bfca78c978"
+        name="Members"
+        visibility="Package"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="c5e620cc-34f6-4b9a-adc4-d6b2d534849d"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2Fc:%2Fusers%2Ffalkebo%2Fdocuments%2Fvisual studio 2013%2FProjects%2FTheBoatClub%2FTheBoatClub%2Fbin%2FDebug%2FTheBoatClub.exe&quot; Namespace%3DTheBoatClub.model Type%3DMembers"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="a421c132-3bed-4845-bf43-7dee09fbaab6"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e540794a-b12b-465b-ab58-b979359039de">
+                <propertyInstance
+                  Id="543d75c2-025a-4267-90b2-1328421e07fc"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f30aa952-4f49-4d59-b178-dd76ef365717">
+                <propertyInstance
+                  Id="8ae1f40b-bb57-4ec9-8bc8-af289eff4d3e"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="77016cb8-e81c-4424-94f1-d387c32fa307">
+                <propertyInstance
+                  Id="1eedfa76-f3bf-4169-b3a2-b2ee41974824"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="17e77091-5980-40ab-a97b-a74e2e451676">
+                <propertyInstance
+                  Id="ac5aa6d1-4a7e-48c7-9378-a18e7a231475"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a1d2eb2b-112e-41b0-bc85-b0cfb69408a0">
+                <propertyInstance
+                  Id="9647b1bc-1552-40e9-9b81-912f29c45e8d"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="da85fa69-3949-4084-a075-b5db5f6e653c"
+        name="Member"
+        visibility="Package"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="e08a90ec-afb8-4815-a724-3f23ed486625"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2Fc:%2Fusers%2Ffalkebo%2Fdocuments%2Fvisual studio 2013%2FProjects%2FTheBoatClub%2FTheBoatClub%2Fbin%2FDebug%2FTheBoatClub.exe&quot; Namespace%3DTheBoatClub.model Type%3DMember"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="46cac4f7-a4d0-44ec-94dc-874e25daefc3"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="87ab621e-1229-439a-a7d5-1d4441847991">
+                <propertyInstance
+                  Id="df2a07d3-47d0-438e-b3b1-ab56810ea276"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="233d0d1d-81ef-45ca-8b4c-d099ba31e525">
+                <propertyInstance
+                  Id="a938afa4-d711-4953-bd33-b7200af32d1c"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="d2365275-18e3-4360-bf44-6fd778d3c740">
+                <propertyInstance
+                  Id="2cf2461f-7454-4ae4-89fd-28c1d9348279"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="4553ca60-6908-484b-876d-777e4f9c427e">
+                <propertyInstance
+                  Id="aec00b26-1a0e-4fb1-89b3-24e49c4013a1"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="ac8045fd-365e-43ce-a022-d283d4ae1dba">
+                <propertyInstance
+                  Id="21392c75-ffb2-4c3d-8592-2a1c6de07095"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>
